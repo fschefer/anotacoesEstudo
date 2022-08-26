@@ -1,0 +1,21 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trabalhando com o prompt</title>
+</head>
+<body>
+    <h1> Seu nome é <span id = "nome"></span></h1>
+    <h2> E você tem <span id = "idade"></span> anos </h2>
+    <script type = "text/javascript">
+        let nome = prompt("Qual o seu nome?");
+        let Recebeidade = prompt ("E quantos anos você tem?");
+        let idade = parseInt(Recebeidade);
+        document.getElementById("nome").innerText = nome;
+        document.getElementById("idade").innerText = idade;
+        //Ao usar o prompt, por padrão, os dados informados serão tipificados como uma String. Para tipá-los corretamente, usamos Parse, como no exemplo acima
+        console.log(typeof idade); 
+    </script>
+</body>
+</html>

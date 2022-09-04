@@ -5,7 +5,7 @@ it('Marcando as checkboxes', function () {
         'guardians']
 
     cy.viewport(1920, 1080)
-    cy.visit('https://training-wheels-qaninja.herokuapp.com/checkboxes')
+    cy.visit('/checkboxes')
     movies.forEach(function (m) {
         cy.get(`input[name=${m}]`)
             .click()

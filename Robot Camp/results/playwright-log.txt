@@ -1,0 +1,137 @@
+{"level":30,"time":"2022-11-03T14:04:57.015Z","pid":28749,"hostname":"archlinux","msg":"Listening on 37219"}
+{"level":30,"time":"2022-11-03T14:04:57.093Z","pid":28749,"hostname":"archlinux","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-11-03T14:04:57.094Z","pid":28749,"hostname":"archlinux","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-11-03T14:04:57.098Z","pid":28749,"hostname":"archlinux","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-11-03T14:04:57.098Z","pid":28749,"hostname":"archlinux","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-11-03T14:04:57.104Z","pid":28749,"hostname":"archlinux","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-11-03T14:04:57.394Z","pid":28749,"hostname":"archlinux","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-11-03T14:04:57.401Z","pid":28749,"hostname":"archlinux","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-11-03T14:04:57.402Z","pid":28749,"hostname":"archlinux","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-11-03T14:04:57.420Z","pid":28749,"hostname":"archlinux","msg":"Changed active context"}
+{"level":30,"time":"2022-11-03T14:04:57.587Z","pid":28749,"hostname":"archlinux","msg":"Video path: undefined"}
+{"level":30,"time":"2022-11-03T14:04:57.587Z","pid":28749,"hostname":"archlinux","msg":"Changed active page"}
+{"level":30,"time":"2022-11-03T14:04:58.633Z","pid":28749,"hostname":"archlinux","msg":"End of node method newPage"}
+{"level":30,"time":"2022-11-03T14:04:58.651Z","pid":28749,"hostname":"archlinux","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-11-03T14:04:58.652Z","pid":28749,"hostname":"archlinux","msg":"Strict mode is enabled, find Locator with css=input[name=email] in page."}
+{"level":30,"time":"2022-11-03T14:04:58.702Z","pid":28749,"hostname":"archlinux","msg":"End of node method fillText"}
+{"level":30,"time":"2022-11-03T14:04:58.705Z","pid":28749,"hostname":"archlinux","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-11-03T14:04:58.706Z","pid":28749,"hostname":"archlinux","msg":"Strict mode is enabled, find Locator with css=input[name=password] in page."}
+{"level":30,"time":"2022-11-03T14:04:58.727Z","pid":28749,"hostname":"archlinux","msg":"End of node method fillText"}
+{"level":30,"time":"2022-11-03T14:04:58.733Z","pid":28749,"hostname":"archlinux","msg":"Start of node method click"}
+{"level":30,"time":"2022-11-03T14:04:58.733Z","pid":28749,"hostname":"archlinux","msg":"Strict mode is enabled, find Locator with xpath=//button[text()=\"Entrar no sistema\"] in page."}
+{"level":30,"time":"2022-11-03T14:04:58.795Z","pid":28749,"hostname":"archlinux","msg":"End of node method click"}
+{"level":30,"time":"2022-11-03T14:04:58.802Z","pid":28749,"hostname":"archlinux","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-03T14:04:58.802Z","pid":28749,"hostname":"archlinux","msg":"Strict mode is enabled, find Locator with css= aside strong in page."}
+{"level":30,"time":"2022-11-03T14:04:59.814Z","pid":28749,"hostname":"archlinux","msg":"Retrieved text for element css= aside strong containing Admin"}
+{"level":30,"time":"2022-11-03T14:04:59.814Z","pid":28749,"hostname":"archlinux","msg":"End of node method getText"}
+{"level":30,"time":"2022-11-03T14:04:59.818Z","pid":28749,"hostname":"archlinux","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-11-03T14:04:59.820Z","pid":28749,"hostname":"archlinux","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-11-03T14:04:59.822Z","pid":28749,"hostname":"archlinux","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-11-03T14:04:59.826Z","pid":28749,"hostname":"archlinux","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-11-03T14:04:59.830Z","pid":28749,"hostname":"archlinux","msg":"Changed active context"}
+{"level":30,"time":"2022-11-03T14:04:59.830Z","pid":28749,"hostname":"archlinux","msg":"Changing current active page"}
+{"level":30,"time":"2022-11-03T14:04:59.830Z","pid":28749,"hostname":"archlinux","msg":"Changed active page"}
+{"level":30,"time":"2022-11-03T14:04:59.835Z","pid":28749,"hostname":"archlinux","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-11-03T14:04:59.837Z","pid":28749,"hostname":"archlinux","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-11-03T14:04:59.839Z","pid":28749,"hostname":"archlinux","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-11-03T14:04:59.839Z","pid":28749,"hostname":"archlinux","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-11-03T14:04:59.843Z","pid":28749,"hostname":"archlinux","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-11-03T14:04:59.843Z","pid":28749,"hostname":"archlinux","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-11-03T14:04:59.849Z","pid":28749,"hostname":"archlinux","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-11-03T14:04:59.851Z","pid":28749,"hostname":"archlinux","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-11-03T14:04:59.852Z","pid":28749,"hostname":"archlinux","msg":"Changed active context"}
+{"level":30,"time":"2022-11-03T14:04:59.852Z","pid":28749,"hostname":"archlinux","msg":"Changing current active page"}
+{"level":30,"time":"2022-11-03T14:04:59.852Z","pid":28749,"hostname":"archlinux","msg":"Changed active page"}
+{"level":30,"time":"2022-11-03T14:04:59.854Z","pid":28749,"hostname":"archlinux","msg":"Start of node method closeContext"}
+{"level":30,"time":"2022-11-03T14:04:59.863Z","pid":28749,"hostname":"archlinux","msg":"Removed page=f9c437ba-25e5-42cb-a891-58b3347b7bb1 from context=a752a4da-b688-4f92-a617-a8ce26fa4ea6 page stack"}
+{"level":30,"time":"2022-11-03T14:04:59.878Z","pid":28749,"hostname":"archlinux","msg":"End of node method closeContext"}
+{"level":30,"time":"2022-11-03T14:04:59.882Z","pid":28749,"hostname":"archlinux","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-11-03T14:04:59.882Z","pid":28749,"hostname":"archlinux","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-11-03T14:04:59.895Z","pid":28749,"hostname":"archlinux","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-11-03T14:05:00.265Z","pid":28749,"hostname":"archlinux","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-11-03T14:05:00.271Z","pid":28749,"hostname":"archlinux","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-11-03T14:05:00.271Z","pid":28749,"hostname":"archlinux","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-11-03T14:05:00.281Z","pid":28749,"hostname":"archlinux","msg":"Changed active context"}
+{"level":30,"time":"2022-11-03T14:05:00.430Z","pid":28749,"hostname":"archlinux","msg":"Video path: undefined"}
+{"level":30,"time":"2022-11-03T14:05:00.430Z","pid":28749,"hostname":"archlinux","msg":"Changed active page"}
+{"level":30,"time":"2022-11-03T14:05:01.388Z","pid":28749,"hostname":"archlinux","msg":"End of node method newPage"}
+{"level":30,"time":"2022-11-03T14:05:01.403Z","pid":28749,"hostname":"archlinux","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-11-03T14:05:01.404Z","pid":28749,"hostname":"archlinux","msg":"Strict mode is enabled, find Locator with css=input[name=email] in page."}
+{"level":30,"time":"2022-11-03T14:05:01.451Z","pid":28749,"hostname":"archlinux","msg":"End of node method fillText"}
+{"level":30,"time":"2022-11-03T14:05:01.459Z","pid":28749,"hostname":"archlinux","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-11-03T14:05:01.459Z","pid":28749,"hostname":"archlinux","msg":"Strict mode is enabled, find Locator with css=input[name=password] in page."}
+{"level":30,"time":"2022-11-03T14:05:01.482Z","pid":28749,"hostname":"archlinux","msg":"End of node method fillText"}
+{"level":30,"time":"2022-11-03T14:05:01.487Z","pid":28749,"hostname":"archlinux","msg":"Start of node method click"}
+{"level":30,"time":"2022-11-03T14:05:01.487Z","pid":28749,"hostname":"archlinux","msg":"Strict mode is enabled, find Locator with xpath=//button[text()=\"Entrar no sistema\"] in page."}
+{"level":30,"time":"2022-11-03T14:05:01.538Z","pid":28749,"hostname":"archlinux","msg":"End of node method click"}
+{"level":30,"time":"2022-11-03T14:05:01.545Z","pid":28749,"hostname":"archlinux","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-11-03T14:05:01.546Z","pid":28749,"hostname":"archlinux","msg":"Strict mode is enabled, find Locator with css=.Toastify__toast-body >> text=Suas credenciais são inválidas, por favor tente novamente! in page."}
+{"level":30,"time":"2022-11-03T14:05:01.615Z","pid":28749,"hostname":"archlinux","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-11-03T14:05:01.619Z","pid":28749,"hostname":"archlinux","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-11-03T14:05:01.621Z","pid":28749,"hostname":"archlinux","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-11-03T14:05:01.625Z","pid":28749,"hostname":"archlinux","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-11-03T14:05:01.630Z","pid":28749,"hostname":"archlinux","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-11-03T14:05:01.632Z","pid":28749,"hostname":"archlinux","msg":"Changed active context"}
+{"level":30,"time":"2022-11-03T14:05:01.632Z","pid":28749,"hostname":"archlinux","msg":"Changing current active page"}
+{"level":30,"time":"2022-11-03T14:05:01.632Z","pid":28749,"hostname":"archlinux","msg":"Changed active page"}
+{"level":30,"time":"2022-11-03T14:05:01.635Z","pid":28749,"hostname":"archlinux","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-11-03T14:05:01.636Z","pid":28749,"hostname":"archlinux","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-11-03T14:05:01.637Z","pid":28749,"hostname":"archlinux","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-11-03T14:05:01.637Z","pid":28749,"hostname":"archlinux","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-11-03T14:05:01.639Z","pid":28749,"hostname":"archlinux","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-11-03T14:05:01.639Z","pid":28749,"hostname":"archlinux","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-11-03T14:05:01.650Z","pid":28749,"hostname":"archlinux","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-11-03T14:05:01.651Z","pid":28749,"hostname":"archlinux","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-11-03T14:05:01.652Z","pid":28749,"hostname":"archlinux","msg":"Changed active context"}
+{"level":30,"time":"2022-11-03T14:05:01.652Z","pid":28749,"hostname":"archlinux","msg":"Changing current active page"}
+{"level":30,"time":"2022-11-03T14:05:01.652Z","pid":28749,"hostname":"archlinux","msg":"Changed active page"}
+{"level":30,"time":"2022-11-03T14:05:01.654Z","pid":28749,"hostname":"archlinux","msg":"Start of node method closeContext"}
+{"level":30,"time":"2022-11-03T14:05:01.662Z","pid":28749,"hostname":"archlinux","msg":"Removed page=f43aac54-1099-45f0-80fc-0e87d939780a from context=48304bb0-a48d-417d-a89e-02b2efd210ba page stack"}
+{"level":30,"time":"2022-11-03T14:05:01.691Z","pid":28749,"hostname":"archlinux","msg":"End of node method closeContext"}
+{"level":30,"time":"2022-11-03T14:05:01.696Z","pid":28749,"hostname":"archlinux","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-11-03T14:05:01.696Z","pid":28749,"hostname":"archlinux","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-11-03T14:05:01.704Z","pid":28749,"hostname":"archlinux","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-11-03T14:05:02.028Z","pid":28749,"hostname":"archlinux","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-11-03T14:05:02.036Z","pid":28749,"hostname":"archlinux","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-11-03T14:05:02.036Z","pid":28749,"hostname":"archlinux","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-11-03T14:05:02.047Z","pid":28749,"hostname":"archlinux","msg":"Changed active context"}
+{"level":30,"time":"2022-11-03T14:05:02.204Z","pid":28749,"hostname":"archlinux","msg":"Video path: undefined"}
+{"level":30,"time":"2022-11-03T14:05:02.204Z","pid":28749,"hostname":"archlinux","msg":"Changed active page"}
+{"level":30,"time":"2022-11-03T14:05:08.595Z","pid":28749,"hostname":"archlinux","msg":"End of node method newPage"}
+{"level":30,"time":"2022-11-03T14:05:08.615Z","pid":28749,"hostname":"archlinux","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-11-03T14:05:08.616Z","pid":28749,"hostname":"archlinux","msg":"Strict mode is enabled, find Locator with css=input[name=email] in page."}
+{"level":30,"time":"2022-11-03T14:05:08.663Z","pid":28749,"hostname":"archlinux","msg":"End of node method fillText"}
+{"level":30,"time":"2022-11-03T14:05:08.666Z","pid":28749,"hostname":"archlinux","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-11-03T14:05:08.666Z","pid":28749,"hostname":"archlinux","msg":"Strict mode is enabled, find Locator with css=input[name=password] in page."}
+{"level":30,"time":"2022-11-03T14:05:08.685Z","pid":28749,"hostname":"archlinux","msg":"End of node method fillText"}
+{"level":30,"time":"2022-11-03T14:05:08.693Z","pid":28749,"hostname":"archlinux","msg":"Start of node method click"}
+{"level":30,"time":"2022-11-03T14:05:08.693Z","pid":28749,"hostname":"archlinux","msg":"Strict mode is enabled, find Locator with xpath=//button[text()=\"Entrar no sistema\"] in page."}
+{"level":30,"time":"2022-11-03T14:05:08.751Z","pid":28749,"hostname":"archlinux","msg":"End of node method click"}
+{"level":30,"time":"2022-11-03T14:05:08.760Z","pid":28749,"hostname":"archlinux","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-11-03T14:05:08.760Z","pid":28749,"hostname":"archlinux","msg":"Strict mode is enabled, find Locator with css=.Toastify__toast-body >> text=Suas credenciais são inválidas, por favor tente novamente! in page."}
+{"level":30,"time":"2022-11-03T14:05:09.946Z","pid":28749,"hostname":"archlinux","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-11-03T14:05:09.952Z","pid":28749,"hostname":"archlinux","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-11-03T14:05:09.962Z","pid":28749,"hostname":"archlinux","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-11-03T14:05:09.964Z","pid":28749,"hostname":"archlinux","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-11-03T14:05:09.967Z","pid":28749,"hostname":"archlinux","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-11-03T14:05:09.969Z","pid":28749,"hostname":"archlinux","msg":"Changed active context"}
+{"level":30,"time":"2022-11-03T14:05:09.969Z","pid":28749,"hostname":"archlinux","msg":"Changing current active page"}
+{"level":30,"time":"2022-11-03T14:05:09.970Z","pid":28749,"hostname":"archlinux","msg":"Changed active page"}
+{"level":30,"time":"2022-11-03T14:05:09.979Z","pid":28749,"hostname":"archlinux","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-11-03T14:05:09.982Z","pid":28749,"hostname":"archlinux","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-11-03T14:05:09.985Z","pid":28749,"hostname":"archlinux","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-11-03T14:05:09.985Z","pid":28749,"hostname":"archlinux","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-11-03T14:05:09.989Z","pid":28749,"hostname":"archlinux","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-11-03T14:05:09.989Z","pid":28749,"hostname":"archlinux","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-11-03T14:05:09.996Z","pid":28749,"hostname":"archlinux","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-11-03T14:05:09.999Z","pid":28749,"hostname":"archlinux","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-11-03T14:05:10.000Z","pid":28749,"hostname":"archlinux","msg":"Changed active context"}
+{"level":30,"time":"2022-11-03T14:05:10.001Z","pid":28749,"hostname":"archlinux","msg":"Changing current active page"}
+{"level":30,"time":"2022-11-03T14:05:10.001Z","pid":28749,"hostname":"archlinux","msg":"Changed active page"}
+{"level":30,"time":"2022-11-03T14:05:10.004Z","pid":28749,"hostname":"archlinux","msg":"Start of node method closeContext"}
+{"level":30,"time":"2022-11-03T14:05:10.012Z","pid":28749,"hostname":"archlinux","msg":"Removed page=8d2312e3-472a-495a-bfe6-c277eb28ec88 from context=92c6043c-9f44-49dc-bfc7-099766e46f35 page stack"}
+{"level":30,"time":"2022-11-03T14:05:10.041Z","pid":28749,"hostname":"archlinux","msg":"End of node method closeContext"}
+{"level":30,"time":"2022-11-03T14:05:10.051Z","pid":28749,"hostname":"archlinux","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-11-03T14:05:10.051Z","pid":28749,"hostname":"archlinux","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-11-03T14:05:10.642Z","pid":28749,"hostname":"archlinux","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2022-11-03T14:05:10.803Z","pid":28749,"hostname":"archlinux","msg":"End of node method closeAllBrowsers"}

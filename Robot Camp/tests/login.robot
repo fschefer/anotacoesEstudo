@@ -1,8 +1,6 @@
 *** Settings ***
 Documentation       User should login to the admin page
-
-Resource            ../resources/keywords.resource
-
+Resource    ../resources/base.resource
 
 *** Test Cases ***
 Admin login

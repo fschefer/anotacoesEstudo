@@ -30,5 +30,5 @@ Validate browser message
     Get Attribute    css=input[placeholder="Seu e-mail"]    type    equal    email
 
 Validate alert    
-    [Arguments]    ${expected_alert}
-    Wait For Elements State    css=span >> text=${expected_alert}    visible    5
+    [Arguments]     ${field}   ${expected_alert}
+    Get Text    xpath=//input[@type="${field}"] /..//span    equal    ${expected_alert}

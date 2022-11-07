@@ -28,11 +28,11 @@ Blank e-mail
     Open page
     Fill Credentials    ${EMPTY}    qacademy
     Submit Credentials
-    Validate alert    O e-mail é obrigatório
+    Validate alert    email    O e-mail é obrigatório
 
 Blank password
     Open page
     Fill Credentials    admin@smartbit.com    ${EMPTY}
     Submit Credentials
-    Validate alert    A senha é obrigatória
+    Validate alert    password    A senha é obrigatória
 

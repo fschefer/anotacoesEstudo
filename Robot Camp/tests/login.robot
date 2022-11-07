@@ -36,3 +36,9 @@ Blank password
     Submit Credentials
     Validate alert    password    A senha é obrigatória
 
+Fill nothing
+    Open page
+    Submit Credentials
+    Validate alert    email    O e-mail é obrigatório
+    Validate alert    password    A senha é obrigatória
+

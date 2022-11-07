@@ -9,17 +9,30 @@ Admin login
     Open page
     Fill Credentials    admin@smartbit.com    qacademy
     Submit Credentials
-    Get Text    css= aside strong    equal    Admin
+    Validate the user is logged in    Admin
 
 Invalid e-mail
     Open page
     Fill Credentials    404@qaninja.com    admin
     Submit Credentials
-    Validate toaster
+    Validate toaster    Suas credenciais são inválidas, por favor tente novamente!
+    Validate browser message
 
 Invalid password
     Open page
     Fill Credentials    admin@smartbit.com    wrongpass
     Submit Credentials
-    Validate toaster
+    Validate toaster    Suas credenciais são inválidas, por favor tente novamente
+
+Blank e-mail
+    Open page
+    Fill Credentials    ${EMPTY}    qacademy
+    Submit Credentials
+    Validate alert    O e-mail é obrigatório
+
+Blank password
+    Open page
+    Fill Credentials    admin@smartbit.com    ${EMPTY}
+    Submit Credentials
+    Validate alert    A senha é obrigatória
 
